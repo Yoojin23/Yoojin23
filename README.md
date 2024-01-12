@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![하모](https://github.com/Yoojin23/Yoojin23/assets/156268493/2c8d1d5b-bab4-41f2-9ab5-ead4afec2a80)
