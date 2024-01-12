@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoojin23)](https://github.com/Yoojin23/Yoojin23?tab=readme-ov-file)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoojin23)](https://github.com/Yoojin23)
+
+
