@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoojin23)](https://github.com/Yoojin23)
 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 
 ![하모](https://github.com/Yoojin23/Yoojin23/assets/156268493/2c8d1d5b-bab4-41f2-9ab5-ead4afec2a80)
