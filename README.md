@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ENL_W23t4dtBix-5d6OIVZkQdn0VRzV9Ro1_coVz7sfKt5rUpXdG8iGo1iOcbxWFjFc&usqp=CAU)
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
